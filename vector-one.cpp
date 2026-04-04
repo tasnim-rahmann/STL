@@ -30,6 +30,9 @@ int main() {
     vec.push_back(15);
     vec.push_back(20);
 
+    // print value by at
+    // cout<<vec.at(0)<<'\n';
+
     // cout<<vec.front()<<'\n';
     // cout<<vec.empty()<<'\n';
     // vec.pop_back()
