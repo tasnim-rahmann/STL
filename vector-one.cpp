@@ -38,7 +38,7 @@ int main() {
     // vec.pop_back()
     // vec.erase(vec.begin(), vec.begin()+1);
 
-    vec.erase(vec.begin()+1);
+    // vec.erase(vec.begin()+1);
 
 
     for(int x:vec) cout<<x<<' ';
