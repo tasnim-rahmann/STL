@@ -26,7 +26,7 @@ int main() {
     // sort(v.begin(), v.end());
     // reverse(v.begin(), v.end());
 
-    // iterator
+    // iterator 
     vector<int>::iterator it;
     // it = v.begin()+2;
     // cout<<*it<<'\n';
